@@ -256,7 +256,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Daniel Skowronski (4X2N66P42A)";
 				INFOPLIST_FILE = SOFlashLight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Daniel.NDA;
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.soflashlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "34b08575-0426-4f55-9013-dac04bfb8a9f";
 			};
@@ -269,7 +269,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: Daniel Skowronski (4X2N66P42A)";
 				INFOPLIST_FILE = SOFlashLight/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Daniel.NDA;
+				PRODUCT_BUNDLE_IDENTIFIER = com.company.soflashlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "34b08575-0426-4f55-9013-dac04bfb8a9f";
 			};
@@ -294,6 +294,7 @@
 				F9824C6E1DED912B00054FB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
