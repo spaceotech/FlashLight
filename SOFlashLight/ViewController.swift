@@ -35,10 +35,10 @@ class ViewController: UIViewController {
                 
                 device.unlockForConfiguration()
             } catch {
-                print("Torch could not be used")
+                print("Torch is not working.")
             }
         } else {
-            print("Torch is not available")
+            print("Torch not compitible with device.")
         }
     }
     
